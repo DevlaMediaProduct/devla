@@ -1,8 +1,8 @@
 name: devla
 description: A new Flutter package project.
 version: 0.0.1
-author:
-homepage:
+author: Vongkeo KEOSAVANH
+homepage: https://github.com/DevlaMediaProduct/devla.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
