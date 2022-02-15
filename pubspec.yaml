@@ -1,0 +1,28 @@
+name: devla
+description: A new Flutter package project.
+version: 0.0.1
+author:
+homepage:
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  screenshot: ^0.3.0
+  permission_handler: ^5.1.0+2
+  image_gallery_saver: ^1.6.8
+  firebase_messaging: ^7.0.0
+  flutter_local_notifications: ^4.0.1
+  devla_request: ^0.0.3
+  google_fonts: ^1.1.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+    
+flutter:
+
